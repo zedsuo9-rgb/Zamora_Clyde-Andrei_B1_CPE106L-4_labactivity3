@@ -1,0 +1,20 @@
+case 1: Adding Tasks
+Added task: 'Class Design' to CPE106L-4 Lab 3 Tasks
+Added task: 'Code Logic' to CPE106L-4 Lab 3 Tasks
+Added task: 'Run Tests' to CPE106L-4 Lab 3 Tasks
+
+case 2: Displaying All Pending Tasks
+--- CPE106L-4 Lab 3 Tasks Tasks ---
+[Pending] Class Design: Implement Task and ProjectTracker classes
+[Pending] Code Logic: Write methods for adding and completing tasks
+[Pending] Run Tests: Execute three meaningful test cases
+--------------------------
+
+case 3: Completing a Task and Updating Status
+Task 'Class Design' marked as complete.
+
+--- CPE106L-4 Lab 3 Tasks Tasks ---
+[Done] Class Design: Implement Task and ProjectTracker classes
+[Pending] Code Logic: Write methods for adding and completing tasks
+[Pending] Run Tests: Execute three meaningful test cases
+--------------------------
