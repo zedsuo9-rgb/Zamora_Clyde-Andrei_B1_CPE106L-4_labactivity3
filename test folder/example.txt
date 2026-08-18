@@ -8,7 +8,7 @@ case 2: Displaying All Pending Tasks
 [Pending] Class Design: Implement Task and ProjectTracker classes
 [Pending] Code Logic: Write methods for adding and completing tasks
 [Pending] Run Tests: Execute three meaningful test cases
---------------------------
+
 
 case 3: Completing a Task and Updating Status
 Task 'Class Design' marked as complete.
@@ -17,4 +17,3 @@ Task 'Class Design' marked as complete.
 [Done] Class Design: Implement Task and ProjectTracker classes
 [Pending] Code Logic: Write methods for adding and completing tasks
 [Pending] Run Tests: Execute three meaningful test cases
---------------------------
